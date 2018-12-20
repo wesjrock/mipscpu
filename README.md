@@ -9,7 +9,7 @@ This is an implementation of a 32 bit MIPS multi-cycle CPU for the [Computer Org
 PROJECT
 --------------------------------------------------
 The purpose of this project was to implement a 32 bits MIPS multi-cycle CPU based on the Hennessy and Patterson (Computer Organization and Design) book.
-The implemented instructions are: `add`, `sub`, `slt`, `and`, `or`, `lw`, `sw`, `beq`, `j`, `lui`, `ori`, `andi`, `slti`, `bltz`, `bne`, `move`.
+The implemented instructions are: `add`, `sub`, `slt`, `and`, `or`, `lw`, `sw`, `beq`, `j`, `lui`, `ori`, `andi`, `slti`, `bltz`, `bne` and `move`.
 
 SPECIFICATIONS
 --------------------------------------------------
