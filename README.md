@@ -15,6 +15,7 @@ SPECIFICATIONS
 --------------------------------------------------
 The Control Unity should be implemented as a microprogrammed control, as described in the classes. Thus, there must be a microcode for the initial representation, a microprogramme counter + dispatch tables for the sequencing control, true tables for the representation in the level of digital logic and memories ROMs for the implementation technique. This ROM should be represented in your code as an integer vector.
 The control signals issued by the UC will be represented in its code as bits of an integer variable (32 bits). The order of the control bits in this 32-bit variable is as follows:
+
 ![Screenshot 2](img/img2.png)
 
 The implementation of the project must use these control signals in this order. Changes in the
