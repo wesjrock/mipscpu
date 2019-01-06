@@ -30,6 +30,13 @@ HOW TO COMPILE
   2. gcc cpu_mips_multiciclo_2014.c -o <executable_name>
 ```
 
+CREDITS
+--------------------------------------------------
+- Andreas Munte Foerster
+- Gabriel Rodrigues do Prado Rossales
+- Weslei Renato de Lima
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 You can find more information about the project in the files:  `task specification.pdf` and `assignment report`.
